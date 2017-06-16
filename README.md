@@ -1,4 +1,4 @@
-### chat-app-v
+## chat-app-v
 chat-app-v  is realtime chat test version using Nodejs and Socket.io 
 
 ## How to install 
